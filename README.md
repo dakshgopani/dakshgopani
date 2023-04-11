@@ -1,12 +1,8 @@
 ![MasterHead](https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
-<h1 align="center">Hi 👋, I'm Daksh Gopani</h1>
-<h3 align="center">A curious computer geek and a learner from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshgopani&label=Profile%20views&color=0e75b6&style=flat" alt="dakshgopani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dakshgopani" alt="dakshgopani" /></a> </p>
-
+<h1 align="center">Hello 👋, I'm Daksh Gopani</h1>
+<h3 align="center">A curious computer geek and a learner from India<br>
+I am currently pursuing Diploma in Computer Engineering from SVKM'S Shri Bhagubhai Mafatlal Polytechnic , Vile Parle (W).<br>
+</h3> 
 <p align="left"> <a href="https://twitter.com/daksh79282672" target="blank"><img src="https://img.shields.io/twitter/follow/daksh79282672?logo=twitter&style=for-the-badge" alt="daksh79282672" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Web Development**
@@ -18,6 +14,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A1szbjKNLho90SB-uRUtHQ8oI0-evmxy/view?usp=share_link](https://drive.google.com/file/d/1A1szbjKNLho90SB-uRUtHQ8oI0-evmxy/view?usp=share_link)
 
 - ⚡ Fun fact **I think I can't crack a funny joke**
+
+<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshgopani&label=Profile%20views&color=0e75b6&style=flat" alt="dakshgopani" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dakshgopani" alt="dakshgopani" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
