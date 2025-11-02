@@ -38,3 +38,21 @@ I am a SE student pursuing Bachelors of Technology in Computer Engineering from 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshgopani&show_icons=true&locale=en" alt="dakshgopani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshgopani&" alt="dakshgopani" /></p>
+
+<div align="center" style="padding: 20px; background: rgba(255,255,255,0.05); border-radius: 20px; backdrop-filter: blur(10px); box-shadow: 0 0 15px rgba(0,0,0,0.2);">
+
+  <h2>🎯 Holopin Achievements</h2>
+
+  <a href="https://holopin.io/@dakshgopani" target="_blank">
+    <img src="https://holopin.me/dakshgopani" 
+         alt="@dakshgopani's Holopin Badges" 
+         width="750"
+         style="border-radius: 10px;" />
+  </a>
+
+  <p><sub>Click to view all badges on my <a href="https://holopin.io/@dakshgopani" target="_blank">Holopin Profile</a> 🌟</sub></p>
+
+</div>
+
+
+
