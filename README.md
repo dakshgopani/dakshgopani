@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
 <h1 align="center">Hello 👋, I'm Daksh Gopani</h1>
 <h3 align="center">A curious computer geek and a learner from India<br>
-I am a SE student pursuing Bachelors of Technology in Computer Engineering from Dwarkadas J Sanghvi College of Engineering.<br>
+I am a SE student pursuing Bachelors of Technology(B.Tech) in Computer Engineering from Dwarkadas J Sanghvi College of Engineering.<br>
 </h3> 
 <p align="left"><a href="https://twitter.com/daksh79282672" target="blank"><img src="https://img.shields.io/twitter/follow/daksh79282672?logo=twitter&style=for-the-badge" alt="daksh79282672" /></a> </p>
 
