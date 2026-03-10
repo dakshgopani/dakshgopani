@@ -7,8 +7,6 @@ I am a SE student pursuing Bachelors of Technology (BTech) in Computer Engineeri
 
 - 🌱 I’m currently learning **Backend Web Development**
 
-- 👨‍💻 All of my projects are available at [https://daksh36portfolio.netlify.app/](https://daksh36portfolio.netlify.app/)
-
 - 📫 How to reach me **dakshgopani0123@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A1szbjKNLho90SB-uRUtHQ8oI0-evmxy/view?usp=share_link](https://drive.google.com/file/d/1A1szbjKNLho90SB-uRUtHQ8oI0-evmxy/view?usp=share_link)
