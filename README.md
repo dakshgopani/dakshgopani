@@ -1,7 +1,11 @@
-<h1 align="center">Hello 👋, I'm Daksh Gopani</h1>
-<h3 align="center">A curious computer geek and a learner from India<br>
+
+<!-- <h1 align="center">Hello 👋, I'm Daksh Gopani</h1>
+<h3 align="center">A curious computer geek and a learner from India<br> -->
+<p align="center">
+  <img src="./cover_img.png" width="100%" />
+</p>
 I am a SE student pursuing Bachelors of Technology in Computer Engineering from Dwarkadas J Sanghvi College of Engineering <br>
-</h3> 
+</h3> <br>
 <p align="left"><a href="https://twitter.com/daksh79282672" target="blank"><img src="https://img.shields.io/twitter/follow/daksh79282672?logo=twitter&style=for-the-badge" alt="daksh79282672" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Web Development**
