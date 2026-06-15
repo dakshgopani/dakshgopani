@@ -1,4 +1,3 @@
-
 <!-- <h1 align="center">Hello 👋, I'm Daksh Gopani</h1>
 <h3 align="center">A curious computer geek and a learner from India<br> -->
 <p align="center">
