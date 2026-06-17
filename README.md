@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./cover_img.png" width="100%" />
 </p>
-I am a SE student pursuing Bachelors of Technology (BTech) in Computer Engineering from Dwarkadas J Sanghvi College of Engineering <br>
+I am a TE student pursuing Bachelors of Technology (BTech) in Computer Engineering from Dwarkadas J Sanghvi College of Engineering <br>
 </h3> <br>
 <p align="left"><a href="https://twitter.com/daksh79282672" target="blank"><img src="https://img.shields.io/twitter/follow/daksh79282672?logo=twitter&style=for-the-badge" alt="daksh79282672" /></a> </p>
 
